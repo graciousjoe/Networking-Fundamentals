@@ -17,6 +17,8 @@ Let’s say we want to download a movie from the internet to your device, here�
 6. Data Link Layer: This layer ensures that the data (in this case, the movie) is sent to the right device using MAC addresses. It also detects errors in transmission and corrects them.
   
 7. Physical Layer: This layer has to do with physical connections like cables, hardware, switches, fiber-optics or Wi-Fi signals. It breaks the data into 0’s and 1’s. You have to be connected to the internet first before you can even start downloading.
+
+
 ##How the TCP/IP protocol suite operates across layers
 This model has four layers and here is how it works using a real-life scenario such as loading a website. Say, the M4Ace website.
 
